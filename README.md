@@ -1,6 +1,6 @@
-# 🎉 patience - National Practical Exam 2025 🎉
+# 🎉 patience -CPRMS PRO 🎉
 
-Welcome! This project is my **final practical exam** for the **National Practical Exam 2025** — a real-world web app built from scratch to showcase my skills in frontend and backend development.  
+Welcome! This project is my **CPRMS** for the **CPRMS** — a real-world web app built from scratch to showcase my skills in frontend and backend development.  
 
 ## 🚀 Why This Project?
 
