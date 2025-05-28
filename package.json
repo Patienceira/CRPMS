@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
